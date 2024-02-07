@@ -1,1 +1,1 @@
-# ML-project
+Diabetes Prediction using Machine Learning
